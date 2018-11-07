@@ -1,0 +1,5 @@
+### Todos los pdf seran ignorados por defecto
+*.pdf
+
+### Archivos temporales de emacs
+.*~
